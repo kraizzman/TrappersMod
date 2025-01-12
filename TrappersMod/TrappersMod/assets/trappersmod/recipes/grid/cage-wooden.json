@@ -1,0 +1,24 @@
+﻿{
+  "ingredientPattern": "BSB,R_R,BSB",
+  "width": 3,
+  "height": 3,
+  "ingredients": {
+    "B": {
+      "type": "item",
+      "code": "game:plank-*",
+      "quantity": 3
+    },
+    "S": {
+      "type": "item",
+      "code": "game:plankslab-*-down-free"
+    },
+    "R": {
+      "type": "item",
+      "code": "game:rope"
+    }
+  },
+  "output": {
+    "type": "block",
+    "code": "game:cage-wooden-north"
+  }
+}
