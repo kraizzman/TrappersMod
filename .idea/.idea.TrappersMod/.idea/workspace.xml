@@ -6,17 +6,35 @@
     <projectFile>TrappersMod/ZZCakeBuild/CakeBuild.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="38a2f89a-2c37-4457-8b10-7fcc6c41a92c" name="Changes" comment="" />
+    <list default="true" id="38a2f89a-2c37-4457-8b10-7fcc6c41a92c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.TrappersMod/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TrappersMod/.idea/vcs.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "kraizzman"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/kraizzman/TrappersMod.git",
+    "accountId": "4d6a0f9f-3e66-4281-9bbb-96d184375743"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "customColor": "",
   "associatedIndex": 0
 }]]></component>
   <component name="ProjectId" id="2rXJozCRHiJRxrofF5iYqvUPT12" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -24,6 +42,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "preferences.general",
     "vue.rearranger.settings.migration": "true"
@@ -87,7 +106,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1736699665361</updated>
-      <workItem from="1736699666567" duration="17000" />
+      <workItem from="1736699666567" duration="128000" />
     </task>
     <servers />
   </component>
