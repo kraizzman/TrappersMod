@@ -1,0 +1,13 @@
+{
+    "type": "code",
+    "modid": "trappersmod",
+    "name": "TrappersMod",
+    "authors": [
+        "Kraizz"
+    ],
+    "description": "Capture animals using special cages. Relocate or release them to enhance your survival experience!",
+    "version": "1.0.0",
+    "dependencies": {
+        "game": ""
+    }
+}
