@@ -5,50 +5,107 @@
     <projectFile profileName="Server">TrappersMod/TrappersMod/TrappersMod.csproj</projectFile>
     <projectFile>TrappersMod/ZZCakeBuild/CakeBuild.csproj</projectFile>
   </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="38a2f89a-2c37-4457-8b10-7fcc6c41a92c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.TrappersMod/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TrappersMod/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TrappersMod/TrappersMod/Patches/BlockEntityBasketTrapPatch.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.TrappersMod/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TrappersMod/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrappersMod/TrappersMod/TrappersModModSystem.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TrappersMod/TrappersMod/TrappersModModSystem.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrappersMod/TrappersMod/assets/trappersmod/recipes/grid/cage-wooden.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrappersMod/TrappersMod/assets/trappersmod/recipes/grid/trapcrate.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrappersMod/TrappersMod/modinfo.json" beforeDir="false" afterPath="$PROJECT_DIR$/TrappersMod/TrappersMod/modinfo.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DpaMonitoringSettings">
+    <option name="firstShow" value="false" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JSON File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "kraizzman"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;kraizzman&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/kraizzman/TrappersMod.git",
-    "accountId": "4d6a0f9f-3e66-4281-9bbb-96d184375743"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/kraizzman/TrappersMod.git&quot;,
+    &quot;accountId&quot;: &quot;4d6a0f9f-3e66-4281-9bbb-96d184375743&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 0
-}]]></component>
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/00d7c4351d3146c9be8c4865263e9b5e1d6a00/2e/2ff4d580/EntityAgent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/00d7c4351d3146c9be8c4865263e9b5e1d6a00/3a/b67541fb/Entity.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/00d7c4351d3146c9be8c4865263e9b5e1d6a00/49/aceb1f6a/EntityProperties.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/05158be10b944212bf8ef58c43c5083d1d6c00/46/f4804c26/EntityProperties.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/05158be10b944212bf8ef58c43c5083d1d6c00/48/9b86527b/JsonObject.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/05158be10b944212bf8ef58c43c5083d1d6c00/aa/9dc80111/InventoryGeneric.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/05158be10b944212bf8ef58c43c5083d1d6c00/dc/cfbb0cfb/IWorldAccessor.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/15d511b2f3d24e598f4f713f53e4dc70a5000/06/3497fac6/AiTaskSeekFoodAndEat.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/229df84c18dc42559f126f832e7cbfeca5600/03/12dc4336/CreatureDiet.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/414de323e2cc43d4a19e58ca0fa97a892b6200/2c/b0da4671/BlockEntityBasketTrap.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/414de323e2cc43d4a19e58ca0fa97a892b6200/c9/39e2e85b/BlockBasketTrap.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/5ec9609e959f4feca2a9dbfbf77733c21d6400/13/2d40d6e4/BlockEntity.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/5ec9609e959f4feca2a9dbfbf77733c21d6400/20/b149d52a/Block.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/5ec9609e959f4feca2a9dbfbf77733c21d6400/69/b4498368/Entity.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/c03c065d1eb84f82b2e950829534add71d6c00/44/f621e9d9/Entity.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/c03c065d1eb84f82b2e950829534add71d6c00/52/692740a2/EntityProperties.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/c03c065d1eb84f82b2e950829534add71d6c00/5e/66223dca/IWorldAccessor.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/c03c065d1eb84f82b2e950829534add71d6c00/fb/6fa1a883/EntityAgent.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/dc3580c9f85e4eccab0db2bd8af8db202b6400/c1/32a6c98c/BlockEntityBasketTrap.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/dc3580c9f85e4eccab0db2bd8af8db202b6400/d2/697992fb/EnumTrapState.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/dc3580c9f85e4eccab0db2bd8af8db202b6400/dd/8184ac73/BlockEntityDisplay.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/f441423b8427411aa6c0be0079bfc4782b5a00/06/4317c1be/BlockCrate.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/f441423b8427411aa6c0be0079bfc4782b5a00/46/6b441ff2/EntityAnimalBot.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/f441423b8427411aa6c0be0079bfc4782b5a00/5d/acf8079f/BlockBasketTrap.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/f441423b8427411aa6c0be0079bfc4782b5a00/b4/f9c39c1c/BlockEntityBasketTrap.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/f441423b8427411aa6c0be0079bfc4782b5a00/c8/a1efb0c7/DoubleTroughPoiDummy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/f441423b8427411aa6c0be0079bfc4782b5a00/f6/a53ca7b7/BlockEntityAnimalBasket.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TrappersMod/TrappersMod/Patches/BlockEntityBasketTrapPatch.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TrappersMod/TrappersMod/TrappersModModSystem.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2rXJozCRHiJRxrofF5iYqvUPT12" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.general",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;.NET Launch Settings Profile.TrappersMod: Client.executor&quot;: &quot;Run&quot;,
+    &quot;.NET Project.CakeBuild.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.general&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected=".NET Project.CakeBuild">
+}</component>
+  <component name="RunManager" selected=".NET Launch Settings Profile.TrappersMod: Client">
     <configuration name="CakeBuild" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -106,15 +163,55 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1736699665361</updated>
-      <workItem from="1736699666567" duration="128000" />
+      <workItem from="1736699666567" duration="5211000" />
+      <workItem from="1736706603800" duration="6805000" />
+      <workItem from="1736779115534" duration="5149000" />
+      <workItem from="1736809242465" duration="2541000" />
+      <workItem from="1736877182153" duration="7580000" />
+      <workItem from="1736952664787" duration="9262000" />
+      <workItem from="1736974090690" duration="1150000" />
+      <workItem from="1737142085288" duration="6689000" />
+      <workItem from="1737808629134" duration="22287000" />
+      <workItem from="1737893059465" duration="6248000" />
+      <workItem from="1738083041851" duration="10581000" />
     </task>
+    <task id="LOCAL-00001" summary="Init Commit">
+      <option name="closed" value="true" />
+      <created>1736699832382</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1736699832382</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added craft for the trapcrate">
+      <option name="closed" value="true" />
+      <created>1736706655850</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1736706655850</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added craft for cage-wooden">
+      <option name="closed" value="true" />
+      <created>1736707780900</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1736707780900</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="Init Commit" />
+    <MESSAGE value="Added craft for the trapcrate" />
+    <MESSAGE value="Added craft for cage-wooden" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added craft for cage-wooden" />
   </component>
 </project>
