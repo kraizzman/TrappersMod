@@ -10,5 +10,5 @@
     "dependencies": {
         "game": ""
     },
-    "hide": "server"
+    "requiredOnClient": false
 }
